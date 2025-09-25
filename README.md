@@ -1,1 +1,1 @@
-# CannyKenar-Bulma
+# Canny Kenar Bulma
